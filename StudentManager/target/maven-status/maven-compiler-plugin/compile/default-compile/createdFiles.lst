@@ -1,0 +1,4 @@
+META-INF\spring.components
+com\karvy\GreetingController.class
+com\karvy\App.class
+com\karvy\Greeting.class
